@@ -1,4 +1,4 @@
-# Netzwerktechnik-Cybersec
+# Netzwerktechnik-Cybersec (Deutsch)
 
 Die Wichtigesten Details sind unter WIKI zu finden 
 
