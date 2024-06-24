@@ -44,7 +44,7 @@ Für denjenigen oder diejenige die/der zu imkompetent ist
 1. https://en.wikipedia.org/wiki/ANSI_escape_code#Colors - terminal color escape codes
 1. https://github.com/h0mbre/Learning-C - ansi C book task solutions
 1. https://nvchad.com/docs/quickstart/install - preconfigured bloated vim
-
+1. https://usaco.guide/bronze     -     the goat
 ### #### Web Development ####
 
 1. https://blog.javascripttoday.com/
